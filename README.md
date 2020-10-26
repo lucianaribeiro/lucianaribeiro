@@ -1,12 +1,16 @@
 ### Hi there, my name is Luciana 👋
 
-- 🔭 I am a Software Engineer from Brazil. I'm currently working with ReactJS, React Native and NodeJS. I also used to work with Angular2+. 
+- 🔭 I am a Software Engineer from Brazil. I'm currently working with ReactJS, React Native and NodeJS. I also used to work with Angular2+.
+
+- ⚡ I also a Researcher in UX and UI areas. 
 
 - 🌱 In all this years I've been trying differents technologies like contribuiting to Rasa's repository and creating a project with Jupyter Notebook and Tensorflow. 
 
 - 👯 In my **repositories** tab you can see most of the work I've been doing, to see more go to the **organizations** I've been contributing.
 
 - 📫 To reach me my email is: albuquerqueluciana54@gmail.com
+     
+     Add me on Linkedin [Here](https://www.linkedin.com/in/lucianaribeirou/)
 
      You can always send me a friend request here.
 
