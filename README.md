@@ -2,7 +2,7 @@
 
 - 🔭 I am a Software Engineer from Brazil. I'm currently working with ReactJS, React Native and NodeJS. I also used to work with Angular2+.
 
-- ⚡ I am a Researcher in UX and UI areas, and I'm completely in love with it. 
+- ⚡ I am a Researcher in UX & UI areas and I'm completely in love with it. 
 
 - 🌱 In all this years I've been trying differents technologies like contribuiting to Rasa's repository and creating a project with Jupyter Notebook and Tensorflow. 
 
