@@ -8,11 +8,11 @@
 
 - 👯 In my **repositories** tab you can see most of the work I've been doing. Go to **organizations** to see what else I've been contributing.
 
-- 📫 To reach me my email is: albuquerqueluciana54@gmail.com
+- 📫 To reach me easily send me an email: albuquerqueluciana54@gmail.com
      
-     Add me on Linkedin [Here](https://www.linkedin.com/in/lucianaribeirou/)
+     Add me on Linkedin [here](https://www.linkedin.com/in/lucianaribeirou/)
 
-     You can always send me a friend request here.
+     And you can always send me a friend request here.
 
 - 😄 Pronouns: She/Her
 
