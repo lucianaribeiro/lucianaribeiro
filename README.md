@@ -6,7 +6,7 @@
 
 - 🌱 In all this years I've been trying differents technologies like contribuiting to Rasa's repository and creating a project with Jupyter Notebook and Tensorflow. 
 
-- 👯 In my **repositories** tab you can see most of the work I've been doing, to see more go to the **organizations** I've been contributing.
+- 👯 In my **repositories** tab you can see most of the work I've been doing. Go to **organizations** to see what else I've been contributing.
 
 - 📫 To reach me my email is: albuquerqueluciana54@gmail.com
      
