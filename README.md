@@ -4,10 +4,6 @@
 
 - ⚡ I am a Researcher in UX & UI areas and I'm completely in love with it. 
 
-- 🌱 In all this years I've been trying differents technologies like contribuiting to Rasa's repository and creating a project with Jupyter Notebook and Tensorflow. 
-
-- 👯 In my **repositories** tab you can see most of the work I've been doing. Go to **organizations** to see what else I've been contributing.
-
 - 📫 To reach me easily send me an email: albuquerqueluciana54@gmail.com
      
      Add me on Linkedin [here](https://www.linkedin.com/in/lucianaribeirou/)
@@ -15,6 +11,9 @@
      And you can always send me a friend request here.
 
 - 😄 Pronouns: She/Her
+
+![Luciana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianaribeiro&show_icons=true&theme=dark)
+
 
 <!--
 **lucianaribeiro/lucianaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
