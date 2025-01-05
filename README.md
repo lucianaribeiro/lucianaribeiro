@@ -5,15 +5,14 @@
 
 - 💻 I'm a senior software engineer from Brazil with over 7 years of experience. I specialize in front-end development using technologies like ReactJS, React Native, Flutter, and Angular 2. I'm also experienced with back-end development using NodeJS and have worked with cloud infrastructure using AWS, Docker, and Docker-Compose.
 
-- 🔭 I'm always looking for ways to improve software quality, and I'm passionate about user experience and interface design. I enjoy creating beautiful and functional user interfaces.
-
-- 🚀 I'm driven to learn new technologies and continuously improve my skills. I love finding creative solutions to complex problems and collaborating with talented teams.
-
 - 🤝 You can find me on LinkedIn: https://www.linkedin.com/in/lucianaribeirou/
 
 - 📫  Feel free to reach out to me at: albuquerqueluciana54@gmail.com
 
 - 😄 Pronouns: She/Her
+
+![lucianaribeiro's Stats](https://github-readme-stats.vercel.app/api?username=lucianaribeiro&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![lucianaribeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaribeiro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 ### Hi there, my name is Luciana 👋
