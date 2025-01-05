@@ -11,8 +11,13 @@
 
 - 😄 Pronouns: She/Her
 
+![](https://raw.githubusercontent.com/lucianaribeiro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lucianaribeiro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<!---
 ![lucianaribeiro's Stats](https://github-readme-stats.vercel.app/api?username=lucianaribeiro&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![lucianaribeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaribeiro&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+--->
 
 <!--
 ### Hi there, my name is Luciana 👋
